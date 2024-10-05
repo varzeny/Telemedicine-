@@ -19,6 +19,17 @@
 * 협동로봇의 고등응용으로 실력 향상
 
 
+## 환경
+* **필드**
+    * 협동로봇 : UR3e(Universal Robts), Indy-7(Neuromeka)
+* **베이스**
+    * VR콘솔 : VIVE-pro-eye(HTC)
+* **기타장비**
+    * MCU : Disco-L475VG(STM), NUCLEO​-F429ZI​(STM)
+    * 오실로스코프 : TOL-13929​(디질런트)
+    * Depth Camera : D435(RealSense)
+
+
 ## 상태
 * **진행** : 4 단계에서 무기한 중지
     * 사유 : 환경변화
@@ -45,17 +56,3 @@
         | --- | --- |
         | [![힘제어](https://img.youtube.com/vi/TcvYcjlj0gY/0.jpg)](https://www.youtube.com/watch?v=TcvYcjlj0gY) | 진행 중 중지... |
 
-
-## 구조
-
-
-
-## 환경
-* **필드**
-    * 협동로봇 : UR3e(Universal Robts), Indy-7(Neuromeka)
-* **베이스**
-    * VR콘솔 : VIVE-pro-eye(HTC)
-* **기타장비**
-    * MCU : Disco-L475VG(STM), NUCLEO​-F429ZI​(STM)
-    * 오실로스코프 : TOL-13929​(디질런트)
-    * Depth Camera : D435(RealSense)
