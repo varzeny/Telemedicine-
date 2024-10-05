@@ -24,9 +24,9 @@
         | [![힘제어](https://img.youtube.com/vi/9T648STQeYQ/0.jpg)](https://www.youtube.com/watch?v=9T648STQeYQ) | [![힘제어](https://img.youtube.com/vi/0cP-lsOLmJU/0.jpg)](https://www.youtube.com/watch?v=0cP-lsOLmJU) |
     
     * ### 4 단계
-        | Depth Camera 에 AI 연동 |  |
+        | Depth Camera 에 AI 연동 | VR데이터 추출 |
         | --- | --- |
-        | [![힘제어](https://img.youtube.com/vi/TcvYcjlj0gY/0.jpg)](https://www.youtube.com/watch?v=TcvYcjlj0gY) |  |
+        | [![힘제어](https://img.youtube.com/vi/TcvYcjlj0gY/0.jpg)](https://www.youtube.com/watch?v=TcvYcjlj0gY) | 진행 중 중지... |
 
 
 ## 개요
